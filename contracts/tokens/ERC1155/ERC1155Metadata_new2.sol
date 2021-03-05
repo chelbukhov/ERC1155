@@ -9,7 +9,8 @@ import "../../interfaces/IERC1155Metadata.sol";
  * @dev Methods assume a deterministic generation of URI based on token IDs.
  *      Methods also assume that URI uses hex representation of token IDs.
  */
-contract ERC1155Metadata is IERC1155Metadata, ERC165 {
+//contract ERC1155Metadata is IERC1155Metadata, ERC165 {
+contract ERC1155Metadata is IERC1155Metadata {
   // URI's default URI prefix
   string internal baseMetadataURI;
 
