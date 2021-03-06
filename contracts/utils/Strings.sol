@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: none
-pragma solidity ^0.5.11;
+pragma solidity ^0.7.4;
 
 library Strings {
   // via https://github.com/oraclize/ethereum-api/blob/master/oraclizeAPI_0.5.sol
