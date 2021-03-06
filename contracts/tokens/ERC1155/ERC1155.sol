@@ -172,7 +172,7 @@ contract ERC1155 is IERC1155, ERC165 {
    * @return isOperator True if the operator is approved, false if not
    */
   function isApprovedForAll(address _owner, address _operator)
-    public override view returns (bool isOperator)
+    public virtual override view returns (bool isOperator)
   {
     return operators[_owner][_operator];
   }
