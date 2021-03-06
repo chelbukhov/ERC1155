@@ -1,4 +1,4 @@
-//"SPDX-License-Identifier: Apache-2.0"
+//SPDX-License-Identifier: none
 pragma solidity 0.7.4;
 
 import "../interfaces/IERC1271Wallet.sol";
