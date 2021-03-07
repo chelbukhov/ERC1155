@@ -1,6 +1,6 @@
 {
   "name": "Salvator Mundi 500 years later",
   "description": "my paint",
-  "image": "https://github.com/chelbukhov/ERC1155/blob/main/json/1.jpg?raw=true",
+  "image": "https://raw.githubusercontent.com/chelbukhov/ERC1155/main/json/1.jpg",
   "attributes": [...]
 }
